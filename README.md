@@ -1,0 +1,1 @@
+# htaccess_host_link_refresh_with_https
